@@ -10,7 +10,7 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := aries
-PRODUCT_NAME := cm_aries
+PRODUCT_NAME := exthm_aries
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := MI 2
 PRODUCT_MANUFACTURER := Xiaomi
